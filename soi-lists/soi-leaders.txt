@@ -1,0 +1,11 @@
+emperor
+king
+prince
+princess
+archduke
+viscount
+baron
+lady
+governor
+mayor
+chancellor

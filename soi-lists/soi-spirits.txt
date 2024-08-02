@@ -1,0 +1,25 @@
+budweizer
+jack daniel's
+miller lite
+heineken
+samuel adams
+hennessy
+tequila
+vodka
+bourbon
+champagne
+cognac
+whiskey
+scotch
+merlot
+lager
+pale ale
+cider
+grog
+margarita
+mai tai
+mojito
+martini
+vesper
+daiquiri
+spritzer
