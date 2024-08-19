@@ -3,8 +3,6 @@ Python script to pseudo-randomly generate a single-page Excel spreadsheet of Sig
 
 Based on [this video](https://youtu.be/4NXhUyqf7ZM) by Lightfighters Anonymous regarding radio encryption.
 
-Current devpath includes adding the callsign section and polishing up the formatting (i.e. learning Xlsxwriter)
-
 # Setting up
 
 Install the necessary libraries:
