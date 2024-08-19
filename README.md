@@ -16,11 +16,11 @@ pip install xlsxwriter
 # Usage
 1) Run the script. Example:
 
-```
-python pysoi.py 12
-```
+	```
+	python pysoi.py 12
+	```
 
-The `12` refers to the number of sheets to generate.
+	The `12` refers to the number of sheets to generate.
 
 2) Type/paste a seed into the prompt or hit ENTER for a random seed.
 
