@@ -69,7 +69,7 @@ You want to be sure the person on the other side of the iPhone is your buddy Car
 
 ### ALT FREQ / ALT SOI
 
-ALT FREQ is used for radio communications. If your threat model is low stakes, like your wife discovering her surprise birthday party, you may want to develop a section dedicated to different messaging apps on your phone.
+ALT FREQ is used for radio communications. If your threat model is low stakes, like your wife discovering her surprise birthday party, you may want to develop a section dedicated to encoding the names of different messaging apps on your phone.
 
 ALT SOI is used when Carl fails to authenticate three times. The call is then put out to the whole operation to use an alternate SOI using the ALT SOI in the imperative.
 
