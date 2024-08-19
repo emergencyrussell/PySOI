@@ -13,7 +13,9 @@ pip install xlsxwriter
 
 # Using the Script
 
-1) Run the script. Example:
+1) Download the script and the `soi-lists` folder with the requisite word list text files.
+
+2) Run the script. Example:
 
 	```
 	python pysoi.py 12
@@ -21,11 +23,11 @@ pip install xlsxwriter
 
 	The `12` refers to the number of sheets to generate.
 
-2) Type/paste a seed into the prompt or hit ENTER for a random seed.
+3) Type/paste a seed into the prompt or hit ENTER for a random seed.
 	
 	A good way to get a cryptographically secure seed is to copy and paste large numbers from random.org or generate a large number from a hardware random number generator. As it happens, you can use my [OpenOTP32](https://github.com/emergencyrussell/OpenOTP32/) to print off a whole sheet of random numbers generated from an ESP32, or you can save thermal paper and just use an ESP32 to generate random numbers in the serial port.
 
-3) If the script is successful, a .xlsx spreadsheet will have been created alongside the script.
+4) If the script is successful, a .xlsx spreadsheet will have been created alongside the script.
 
 # Usage
 
