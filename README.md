@@ -27,7 +27,7 @@ pip install xlsxwriter
 
 3) Type/paste a seed into the prompt or hit ENTER for a random seed.
 	
-	A good way to get a cryptographically secure seed is to copy and paste large numbers from random.org or generate a large number from a hardware random number generator. As it happens, you can use my [OpenOTP32](https://github.com/emergencyrussell/OpenOTP32/) to print off a whole sheet of random numbers generated from an ESP32, or you can save thermal paper and just use an ESP32 to generate random numbers in the serial port.
+	A good way to get a cryptographically secure seed is to copy and paste large numbers from `random.org` or generate a large number from a hardware random number generator. As it happens, you can use my [OpenOTP32](https://github.com/emergencyrussell/OpenOTP32/) to print off a whole sheet of random numbers generated from an ESP32, or you can save thermal paper and just use an ESP32 to generate random numbers in the serial port.
 
 4) If the script is successful, a .xlsx spreadsheet will have been created alongside the script.
 
