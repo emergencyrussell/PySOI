@@ -35,7 +35,7 @@ pip install xlsxwriter
 
 *Note: This is a work in progress. It may be necessary to amend the word lists for clarity, brevity, and to increase the pool of codewords and categories.*
 
-Communications security is a vital organ of any covert operation. Your wife will not be impressed by your operational discipline if her SIGINT team intercepts your unencoded radio coms directing her surprise birthday party in plain English. In order to maintain the element of surprise, it is necessary to encode key words or phrases with our team so that they can operate in the comfort of a private language. One way to accomplish this private language is by distributing codebooks among the team that transfer the meaning of our communications among innocuous, easily understood codewords.
+Communications security is a vital organ of any covert operation. Your wife will not be impressed by your operational discipline if her SIGINT team intercepts your unencoded radio coms directing her surprise birthday party in plain English. In order to maintain the element of surprise, it is necessary to encode key words or phrases with our team so that they can operate in the comfort of a private language. One way to achieve this private language is by distributing codebooks among the team that transfer the meaning of our communications among innocuous, easily understood codewords.
 
 ## Orders/Status
 
@@ -71,7 +71,7 @@ You want to be sure the person on the other side of the iPhone is your buddy Car
 
 ALT FREQ is used for radio communications. If your threat model is low stakes, like your wife discovering her surprise birthday party, you may want to develop a section dedicated to different messaging apps on your phone.
 
-ALT SOI is used when Carl fails to authenticate three times. The call is then put out to the whole operation to use an alternate SOI.
+ALT SOI is used when Carl fails to authenticate three times. The call is then put out to the whole operation to use an alternate SOI using the ALT SOI in the imperative.
 
 ### Challenge / Password
 
