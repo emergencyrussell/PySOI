@@ -1,7 +1,6 @@
 vampire
 werewolf
 zombie
-mummy
 ghost
 wicked witch
 frankenstein
