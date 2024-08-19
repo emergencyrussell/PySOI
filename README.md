@@ -15,6 +15,8 @@ pip install xlsxwriter
 
 1) Download the script and the `soi-lists` folder with the requisite word list text files.
 
+	Click `<> Code ▼` > ` Download ZIP`
+
 2) Run the script. Example:
 
 	```
