@@ -79,7 +79,7 @@ Used in person, face-to-face, irl, in the same way as the SARNEG: to ensure the 
 
 ### Running Pass
 
-The password used for when you're running, for GTFO emergencies. Appropriate usage likely to involve maximum vocal chord power.
+The password used for when you're running, for GTFO emergencies. Appropriate usage likely to involve all available vocal energy.
 
 ### Number Combination
 
