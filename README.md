@@ -61,7 +61,7 @@ Names of locations in relation to your operation's goals.
 
 ### SARNEG
 
-You want to be sure the person on the other side of the iPhone is your buddy Carl and that he is not under duress or the immediate supervision of Blabbermouth Becky who will spill the spinach in half a heartbeat. The SARNEG word is a word or compound of words made of non-repeating letters paired with a number 0-9. To make sure you're talking to the right person and that they are not compromised, choose a letter or number and have the other end of the line match that letter or number with the corresponding number or letter. If they have the same SARNEG word, they'll be able to authenticate themselves. If they fail the authentication three times, you know it's time to burn the SOI and move to the next one, if not an entire new SOI book.
+You want to be sure the person on the other side of the iPhone is your buddy Carl and that he is not under duress or the immediate supervision of his girlfriend, Blabbermouth Becky, who will spill the spinach in half a heartbeat. The SARNEG word is a word or compound of words made of non-repeating letters paired with a number 0-9. To make sure you're talking to the right person and that they are not compromised, choose a letter or number and have the other end of the line match that letter or number with the corresponding number or letter. If they have the same SARNEG word, they'll be able to authenticate themselves. If they fail the authentication three times, you know it's time to burn the SOI and move to the next one, if not an entire new SOI book.
 
 	"Carl, this is Hank, authenticate B. Over"
 	
