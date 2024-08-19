@@ -13,7 +13,7 @@ pip install xlsxwriter
 
 # Using the Script
 
-1) Download the script and the `soi-lists` folder with the requisite word list text files.
+1) Download the script and the `soi-lists` folder with the requisite word list text files:
 
 	Click `<> Code ▼` > ` Download ZIP`
 
